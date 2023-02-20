@@ -1,0 +1,13 @@
+.mi-bloque {
+    width: 400px;
+    height: 150px;
+    background-color: #f0f0f0;
+    border: 4px dotted #333;
+    margin: 50px;
+    padding: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+  }
+  

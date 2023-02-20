@@ -1,0 +1,21 @@
+/* Ejercicio 1 */
+
+a:hover {
+  color: red;
+}
+
+a:focus {
+  color: green;
+}
+
+/* Ejercicio 2 */
+
+p {
+  font-style: italic;
+}
+
+/* Ejercicio 3 */
+
+div.destacado li.importante {
+  color: red;
+}

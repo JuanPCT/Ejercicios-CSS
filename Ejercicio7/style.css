@@ -1,0 +1,15 @@
+.mi-boton {
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .mi-boton:hover {
+    background-color: green;
+  }
+  
